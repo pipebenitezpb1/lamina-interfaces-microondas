@@ -1,7 +1,7 @@
 # Análisis de Interfaces · Horno de microondas
 
 **Unidad 1 · Interfaces Sonoras · Entrega 1** · Taller de Diseño de Interfaces, Universidad Adolfo Ibáñez · 2026 · Prof. Jorge Forero
-Autor: Luis-Felipe Benítez · Ficha: https://portafolio.insta3d.cl/analisis-interfaces/
+Autor: Luis-Felipe Benitez · Ficha: https://portafolio.insta3d.cl/analisis-interfaces/
 
 ## Objetivos
 - Identificar las interfaces de entrada y salida de un objeto cotidiano: un horno de microondas.
